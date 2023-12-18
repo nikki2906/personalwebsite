@@ -74,7 +74,6 @@ Learn more about Docker [here](https://docs.docker.com/get-started/overview/ 'he
 
 ```javascript
 {
-  "readmeUrl": // create a Github README and link it here!
   "title": // title of the website
   "name": // your name, included in 'about' command
   "ascii": // ascii art to display
